@@ -71,6 +71,7 @@ class GFSimpleFeedAddOn extends GFFeedAddOn {
 
 		}
 
+		sleep(10);
 		// Send the values to the third-party service.
 	}
 
