@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Gravity Forms Simple Feed Add-On
+Plugin Name: Gravity Forms Simple But Slow Feed Add-On
 Plugin URI: http://www.gravityforms.com
-Description: A simple add-on to demonstrate the use of the Add-On Framework
+Description: A simple add-on to demonstrate the background processing is bugging lately
 Version: 2.0
 Author: Rocketgenius
 Author URI: http://www.rocketgenius.com
