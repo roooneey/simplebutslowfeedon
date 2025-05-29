@@ -11,6 +11,8 @@ class GFSimpleFeedAddOn extends GFFeedAddOn {
 	protected $_full_path                = __FILE__;
 	protected $_title                    = 'Gravity Forms Simple Feed Add-On';
 	protected $_short_title              = 'Simple Feed Add-On';
+	protected $_async_feed_processing    = true;
+
 
 	private static $_instance = null;
 
